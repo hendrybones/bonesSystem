@@ -49,7 +49,7 @@
 
 	<dependency>
 		<groupId>org.webjars</groupId>
-		<artifactId>webjars-locator</artifactId>
+		<artifactId>webjars-locator-core</artifactId>
 		<version>0.30</version>
 	</dependency>
 
